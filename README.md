@@ -1,140 +1,104 @@
-# 👋 Hi, I'm Aayush Patil
+<h1 align="center">Hi 👋, I'm Aayush Patil</h1>
+<h3 align="center">Building AI, Data, and Scalable Systems</h3>
+
+---
+
+# 💫 About Me:
 
 🎓 MS in Applied Data Science @ San Jose State University (May 2026)  
-💡 Building end-to-end AI systems across machine learning, data engineering, and backend development  
+
+🚀 I build end-to-end AI systems combining machine learning, data engineering, and backend development  
+
+🔭 I’m currently working on  
+Applied ML, MLOps, and production-grade AI systems  
+
+🌱 I’m currently learning  
+LLM systems, advanced MLOps, and distributed data processing  
+
+💬 Ask me about  
+Python, SQL, Machine Learning, FastAPI, Airflow, AWS, RAG systems  
+
+⚡ Fun fact  
+I like building systems from raw data pipelines to deployed AI applications  
 
 ---
 
-## 🚀 About Me
-
-I focus on building **production-style AI and data systems**, not just models.
-
-Recent work includes:
-- 🔹 MLOps pipeline with drift detection and automated retraining (Airflow, MLflow, FastAPI)  
-- 🔹 Neural speech decoding model (CNN + BiLSTM + CTC) for brain-to-text  
-- 🔹 RAG systems with vector search and LLM integration  
-- 🔹 Scalable data pipelines using Spark, dbt, and AWS  
-
-📌 Actively looking for:
-AI/ML Engineer, Data Engineer, Data Scientist, and Backend-focused roles
-
----
-
-## 🧠 Projects
+## 🚀 Featured Projects
 
 ### 🧠 AI / ML / GenAI
 
-- [Neural Speech Decoding (Brain-to-Text)](https://github.com/AayushP-10/Neural-Speech-Decoding-Brain-to-Text-)  
-  CNN + BiLSTM model with CTC loss for decoding neural signals into text.
-
-- [RAG Knowledge Base Assistant](https://github.com/AayushP-10/rag-kb-bot)  
-  FastAPI-based RAG system with embeddings, ChromaDB, and LLM integration.
-
-- [Medical AI Assistant](https://github.com/AayushP-10/Medical-AI-Assistant)  
-  LangGraph-based conversational AI system with memory and decision routing.
-
-- [SecureMyAI – GenAI Prompt Firewall](https://github.com/AayushP-10/SecureMyAI-GenAI-Prompt-Firewall)  
-  Detects and redacts sensitive data before sending prompts to LLMs.
-
-- [AI Financial Assistant](https://github.com/AayushP-10/AI-Financial-Assistant)  
-  Streamlit app for analyzing financial data using natural language queries.
+[![Brain-to-Text](https://img.shields.io/badge/Brain--to--Text-Deep%20Learning-blueviolet?style=for-the-badge)](https://github.com/AayushP-10/Neural-Speech-Decoding-Brain-to-Text-)  
+[![RAG Assistant](https://img.shields.io/badge/RAG-Knowledge%20Base-success?style=for-the-badge)](https://github.com/AayushP-10/rag-kb-bot)  
+[![Medical AI](https://img.shields.io/badge/Medical-AI%20Assistant-blue?style=for-the-badge)](https://github.com/AayushP-10/Medical-AI-Assistant)  
+[![SecureMyAI](https://img.shields.io/badge/Prompt-Firewall-red?style=for-the-badge)](https://github.com/AayushP-10/SecureMyAI-GenAI-Prompt-Firewall)  
 
 ---
 
 ### ⚙️ Data Engineering / MLOps
 
-- [End-to-End MLOps System for Drift Monitoring](https://github.com/AayushP-10/End-to-End-MLOps-System-for-Drift-Monitoring)  
-  Drift detection, retraining, MLflow tracking, Airflow orchestration, FastAPI serving.
-
-- [YouTube Data Engineering Pipeline](https://github.com/AayushP-10/End-to-End-YouTube-Data-Engineering-Pipeline)  
-  ELT pipeline using Spark, dbt, AWS, and Whisper-based transcription.
-
-- [Zillow ETL Workflow (Airflow + AWS)](https://github.com/AayushP-10/Zillow-ETL-Workflow-Using-Apache-Airflow-and-AWS)  
-  Automated ETL pipeline with S3, Lambda, Redshift, and QuickSight.
-
-- [IMDB Batch ETL Pipeline](https://github.com/AayushP-10/IMDB-Movies-Batch-ETL-Pipeline-)  
-  Spark-based batch ETL pipeline with Airflow and PostgreSQL.
-
-- [AzureStreamCart Data Pipeline](https://github.com/AayushP-10/AzureStreamCart-End-to-End-E-Commerce-Data-Pipeline)  
-  Azure-based medallion architecture pipeline using Databricks and Synapse.
-
-- [Real-Time Stock Market Pipeline (Kafka + AWS)](https://github.com/AayushP-10/Real-Time-Stock-Market-Data-Pipeline-with-Kafka-and-AWS)  
-  Streaming pipeline with Kafka, S3, Glue, and Athena.
+[![MLOps](https://img.shields.io/badge/MLOps-Drift%20Monitoring-blue?style=for-the-badge)](https://github.com/AayushP-10/End-to-End-MLOps-System-for-Drift-Monitoring)  
+[![YouTube Pipeline](https://img.shields.io/badge/YouTube-Data%20Pipeline-black?style=for-the-badge)](https://github.com/AayushP-10/End-to-End-YouTube-Data-Engineering-Pipeline)  
+[![Zillow ETL](https://img.shields.io/badge/Zillow-ETL-orange?style=for-the-badge)](https://github.com/AayushP-10/Zillow-ETL-Workflow-Using-Apache-Airflow-and-AWS)  
+[![IMDB ETL](https://img.shields.io/badge/IMDB-Batch%20ETL-yellow?style=for-the-badge)](https://github.com/AayushP-10/IMDB-Movies-Batch-ETL-Pipeline-)  
 
 ---
 
-### 📊 Data Analysis / BI / Visualization
+### 📊 Data Analysis / BI
 
-- [AdTech Campaign Dashboard](https://github.com/AayushP-10/AdTech-Campaign-Dashboard)  
-  Tableau dashboard analyzing CTR, CPM, and conversion performance.
-
-- [Netflix Visual Analysis Dashboard](https://github.com/AayushP-10/Netflix-Visual-Analysis)  
-  Interactive Tableau dashboard exploring content trends and distributions.
-
-- [EV Adoption Analysis](https://github.com/AayushP-10/EV-Adoption-Analysis-and-Insights)  
-  EDA, predictive modeling, and Tableau storytelling for EV trends.
-
-- [User Behavior Segmentation](https://github.com/AayushP-10/App-User-Segmentation)  
-  K-means clustering to identify churn, retained, and at-risk users.
+[![AdTech Dashboard](https://img.shields.io/badge/AdTech-Dashboard-purple?style=for-the-badge)](https://github.com/AayushP-10/AdTech-Campaign-Dashboard)  
+[![Netflix Dashboard](https://img.shields.io/badge/Netflix-Analysis-red?style=for-the-badge)](https://github.com/AayushP-10/Netflix-Visual-Analysis)  
+[![EV Analysis](https://img.shields.io/badge/EV-Analytics-green?style=for-the-badge)](https://github.com/AayushP-10/EV-Adoption-Analysis-and-Insights)  
 
 ---
 
-### 🖥️ Backend / Software Engineering
+### 🖥️ Backend / Systems
 
-- [Distributed Ride-Sharing Platform](https://github.com/AayushP-10/Distributed-Ride-Sharing-Platform)  
-  Microservices-based backend with scalable architecture and JWT authentication.
-
-- [Website Cloner (LLM + Scraping)](https://github.com/AayushP-10/Web-App-Scraper)  
-  Scrapes and reconstructs websites using Playwright and Gemini.
-
-- [Django E-Commerce Platform](https://github.com/AayushP-10/Django-E-Commerce-Platform)  
-  Full-stack backend system with authentication, payments, and order management.
-
-- [Personalized News Aggregator](https://github.com/AayushP-10/Personalized-News-Aggregator-And-Recommendation-System)  
-  Django-based system for personalized content delivery.
+[![Ride Sharing](https://img.shields.io/badge/Distributed-Ride%20Sharing-brightgreen?style=for-the-badge)](https://github.com/AayushP-10/Distributed-Ride-Sharing-Platform)  
+[![Website Cloner](https://img.shields.io/badge/Website-Cloner-blue?style=for-the-badge)](https://github.com/AayushP-10/Web-App-Scraper)  
+[![Django E-Commerce](https://img.shields.io/badge/Django-ECommerce-success?style=for-the-badge)](https://github.com/AayushP-10/Django-E-Commerce-Platform)  
 
 ---
 
-### 🎵 Experimental / Research
+## 🌐 Socials:
 
-- [GenAI Audio System (Diffusion + LLMs)](https://github.com/AayushP-10/Gen-AI-Audio-System-Diffusion-LLMs-)  
-  Diffusion-based audio generation using Mel spectrograms and Hugging Face models.
-
----
-
-## 💻 Tech Stack
-
-**Languages & Core**  
-Python, SQL  
-
-**Machine Learning & AI**  
-scikit-learn, PyTorch, Feature Engineering, Model Evaluation  
-
-**Data Engineering & MLOps**  
-Apache Airflow, MLflow, dbt, Apache Spark, Docker  
-
-**Backend & APIs**  
-FastAPI, REST APIs  
-
-**Cloud & Data Platforms**  
-AWS (S3, Redshift, Athena, Glue), PostgreSQL  
-
-**Data Analysis & Visualization**  
-Pandas, NumPy, Power BI, Tableau, Amazon QuickSight  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-patil10)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushappatil@gmail.com)  
 
 ---
 
-## 🌐 Connect with Me
+# 💻 Tech Stack:
 
-- LinkedIn: https://linkedin.com/in/aayush-patil10  
-- Email: ayushappatil@gmail.com  
+### 🧠 Core
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+### 🤖 ML / AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### ⚙️ Data Engineering / MLOps
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=ApacheAirflow)
+![MLflow](https://img.shields.io/badge/MLflow-blue?style=for-the-badge)
+![Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+
+### ☁️ Cloud / Data Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
+
+### 📊 Analytics / BI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=AayushP-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=AayushP-10&theme=dark&hide_border=false)
-
+![](https://github-readme-stats.vercel.app/api?username=AayushP-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=AayushP-10&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushP-10&theme=dark&hide_border=false&layout=compact)
