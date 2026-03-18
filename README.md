@@ -1,4 +1,26 @@
-## 🚀 Projects
+# 👋 Hi, I'm Aayush Patil
+
+🎓 MS in Applied Data Science @ San Jose State University (May 2026)  
+💡 Building end-to-end AI systems across machine learning, data engineering, and backend development  
+
+---
+
+## 🚀 About Me
+
+I focus on building **production-style AI and data systems**, not just models.
+
+Recent work includes:
+- 🔹 MLOps pipeline with drift detection and automated retraining (Airflow, MLflow, FastAPI)  
+- 🔹 Neural speech decoding model (CNN + BiLSTM + CTC) for brain-to-text  
+- 🔹 RAG systems with vector search and LLM integration  
+- 🔹 Scalable data pipelines using Spark, dbt, and AWS  
+
+📌 Actively looking for:
+AI/ML Engineer, Data Engineer, Data Scientist, and Backend-focused roles
+
+---
+
+## 🧠 Projects
 
 ### 🧠 AI / ML / GenAI
 
@@ -60,7 +82,7 @@
 ### 🖥️ Backend / Software Engineering
 
 - [Distributed Ride-Sharing Platform](https://github.com/AayushP-10/Distributed-Ride-Sharing-Platform)  
-  Microservices-based backend with scalable service architecture and JWT auth.
+  Microservices-based backend with scalable architecture and JWT authentication.
 
 - [Website Cloner (LLM + Scraping)](https://github.com/AayushP-10/Web-App-Scraper)  
   Scrapes and reconstructs websites using Playwright and Gemini.
@@ -77,3 +99,42 @@
 
 - [GenAI Audio System (Diffusion + LLMs)](https://github.com/AayushP-10/Gen-AI-Audio-System-Diffusion-LLMs-)  
   Diffusion-based audio generation using Mel spectrograms and Hugging Face models.
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Core**  
+Python, SQL  
+
+**Machine Learning & AI**  
+scikit-learn, PyTorch, Feature Engineering, Model Evaluation  
+
+**Data Engineering & MLOps**  
+Apache Airflow, MLflow, dbt, Apache Spark, Docker  
+
+**Backend & APIs**  
+FastAPI, REST APIs  
+
+**Cloud & Data Platforms**  
+AWS (S3, Redshift, Athena, Glue), PostgreSQL  
+
+**Data Analysis & Visualization**  
+Pandas, NumPy, Power BI, Tableau, Amazon QuickSight  
+
+---
+
+## 🌐 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/aayush-patil10  
+- Email: ayushappatil@gmail.com  
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=AayushP-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=AayushP-10&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushP-10&theme=dark&hide_border=false&layout=compact)
