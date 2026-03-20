@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Patil</h1>
-<h3 align="center">Building AI, Data, and Scalable Systems</h3>
+<h3 align="center">Building AI, Data, and Backend Systems</h3>
 
 ---
 
